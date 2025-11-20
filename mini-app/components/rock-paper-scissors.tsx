@@ -39,7 +39,7 @@ export default function RockPaperScissors() {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-900 text-white p-4">
+    <div className="flex flex-col items-center justify-center h-screen bg-gray-900 text-white">
       <div className="mb-8 text-center">
         <h1 className="text-4xl font-bold mb-2">Rock Paper Scissors</h1>
         <p className="text-lg">
